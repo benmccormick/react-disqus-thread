@@ -2,7 +2,7 @@
   "name": "react-disqus-thread",
   "version": "0.5.0",
   "description": "React Disqus thread component",
-  "main": "lib/main.js",
+  "main": "dist/react-disqus-thread.min.js",
   "scripts": {
     "test": "rackt test --single-run --browsers Firefox",
     "start": "rackt server"
