@@ -238,7 +238,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	          copyProps(this.page, props);
 	
 	          // Disqus needs hashbang URL, see https://help.disqus.com/customer/portal/articles/472107
-	          this.page.url = this.page.url.replace(/#/, '') + '#!newthread';
+	          //this.page.url = this.page.url.replace(/#/, '') + '#!newthread';
 	        }
 	      });
 	    } else {
